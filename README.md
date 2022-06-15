@@ -27,22 +27,9 @@ Hi<img src="assets/hello.gif" width="12px" height="12px" alt="hi">, I'm Faysalâ€
 
 ### My Projects:
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Description</b></td>
-      <td><b>Source Code / Live Link</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Cooking...</td>
-      <td>Cooking...</td>
-      <td>Cooking...</td>
-    </tr>
-  </tbody>
-</table>
+|   Projects   |      Description      |  Source Code / Live Link  |
+|--------------|:---------------------:|--------------------------:|
+|   Cooking..  |          ....         |            ....           |
 
 ---
 
