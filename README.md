@@ -19,11 +19,13 @@ Hi<img src="assets/hello.gif" width="12px" height="12px" alt="hi">, I'm Faysalâ€
     <tr border: none;>
       <td><b>Projects</b></td>
       <td><b>Description</b></td>
+      <td><b>Source Code / Live Link</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Project Name</td>
+      <td>Cooking...</td>
+      <td>Cooking...</td>
       <td>Cooking...</td>
     </tr>
   </tbody>
