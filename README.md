@@ -1,3 +1,3 @@
-# Hello there <img src="assets/hello.gif" width="28px" alt="hi">, I'm Faysal Ahammed! 👳‍♂️
+# Hello there <img src="assets/hello.gif" width="28px" height="28px" alt="hi">, I'm Faysal Ahammed! 👳‍♂️
 
 A Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh.My core skill is based on JavaScript and I love to do most of the things using JavaScript.I have graduated with a bachelor's degree in Computer Science and Engineering from Daffodil International University at Dhaka, Bangladesh in 2022. I am available for any kind of job opportunity that suits my interests.
